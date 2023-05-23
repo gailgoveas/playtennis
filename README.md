@@ -36,7 +36,7 @@ The model achieved an accuracy of 66.6%, indicating its ability to predict tenni
 To reproduce the results obtained in this project, follow these steps:
 1. Install the required dependencies as mentioned in the Dependencies section.
 2. Ensure that the `PlayTennis.csv` dataset file is in the same directory as the code.
-3. Run the code in your preferred Python environment, making sure to set the random seed to X for reproducibility.
+3. Run the code in your preferred Python environment, making sure to set the random seed to 42 for reproducibility.
 4. The program will output the accuracy and display the decision tree visualization.
 
 ## License
